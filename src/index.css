@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+nav{
+  background-color: black;
+}
+ul{
+  display: flex;
+}
+ul li{
+  margin:10px;
+ 
+}
+.nav-link {
+  color: white; /* Set the text color to white */
+  text-decoration: none; /* Remove underline */
+  padding: 10px; /* Add padding for better styling */
+}
